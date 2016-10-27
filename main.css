@@ -1,0 +1,169 @@
+body {
+	background-image:url("nacchan.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
+	a:link:#B310B3;
+	overflow: hidden;
+}
+
+
+#container {
+	top:10%;
+	margin-left:2%;
+	text-align: left;
+	width:70%;
+	position: absolute;
+	height:80.5%;
+	border-style: solid;
+	color: #D59B6C;
+	border-width: 1%;
+	border-color: #D59B6C;
+	overflow: hidden;
+
+	
+}
+
+#head{
+	text-decoration: none;
+	text-align:left;
+	width: 99.1%;
+	height: 4%;
+	color: #D59B6C;
+	border-width: 1%;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	padding-left: 1%;
+	border-top: solid;
+	
+}
+
+
+
+ul {
+
+    display: inline;
+	color: #B310B3;
+	padding: 1%;
+	min-width: 40%;
+}
+ul li {display: inline-block;}
+a:link { 
+    color: #D59B6C;
+}
+
+
+#menu{
+	width: 69.5%;
+	height: 5%;
+	background-color: #D59B6C;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 0.5%;
+	font-weight: bold;
+	font-size: medium;
+	margin-top: 2%;
+	margin-left:2%;
+}
+
+#konten{
+
+	top: 0;
+	width: 100%;
+	height: 10%;
+	color: #D59B6C;
+	font-size: x-small;
+	font-style: thick;
+	text-align: left;
+	margin-top: -1%;
+}
+
+
+#isi{
+	text-align: left;
+	font-size: large;
+	font-family: verdana,tahoma,arial,sans-serif,"Lucida Sans";
+	color: #D59B6C;
+	display: block;
+	border-width: 1%;
+	border-color: #D59B6C;
+	border-top: solid;
+	padding: 1%;
+	width: 98.1%;
+	overflow: auto;
+	height: 89%;
+		
+}
+
+#footer{
+	top: 91%;
+    text-align: left;
+	font-size: 40%;
+	font-family: verdana,tahoma,arial,sans-serif,"Lucida Sans";
+	color: #D59B6C;
+	border-width: 1%;
+	border-color: #D59B6C;
+	border:solid;
+	width: 70%;
+	overflow: hidden;
+	height: 5%;
+	position:absolute;
+	bottom: 1%;
+	margin-left: 2%;
+	border-color: #D59B6C;
+	}
+
+#irc a:link  a:hover  a:visited{
+	color: #B310B3;
+	text-decoration: none;
+}
+
+#header {
+	text-align: center;
+	background-image:url("header.jpg");	
+	background-repeat:   no-repeat;
+    background-position: top center; 
+    background-size: cover;
+	color: #B310B3;
+	display: block;
+	width: 100%;
+	overflow: auto;
+	height :40%;
+	
+	
+		
+}
+.merah {
+	background-color:#F69B9B;
+	border-color:red
+}
+.abu {
+	background-color:#D4D4D4;
+	border-color:gray
+}
+.putih {
+	background-color: rgba(255, 255, 25, .4);
+	border-color:#D1DCDB
+	
+}
+.aqua {
+	background-color:#C2FBFC;
+	border-color:#EC90E5
+}
+.segar {
+	background-color:#C2FBFC;
+	border-color:#C2FBFC
+}
+.white {
+	background-color:white;
+	border-color:white
+}
+#refresh {
+	text-align:right;
+	font-size:14;
+	margin-top:0px
+	
+}
+
